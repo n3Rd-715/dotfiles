@@ -112,7 +112,7 @@ source $ZSH/oh-my-zsh.sh
 
 
 # Aliases
-alias zshconfig="nvim ~/.zshrc"
+alias zshconfig="nvim ~/dotfiles/.zshrc"
 alias ohmyzsh="nvim ~/.oh-my-zsh"
 
 alias gcl="git clone"
@@ -121,6 +121,3 @@ alias c="clear"
 
 alias clock="tty-clock -C2 -sc"
 
-alias hotspot="nmcli d wifi connect '1337 H4X0R'"
-
-alias interject="cat /home/n3rd/ricing/neofetch-logos/interject.txt"
